@@ -1,4 +1,4 @@
-# Javascript-notes# 📘 JavaScript Notes (Basic → Advanced)
+# 📘 JavaScript Notes (Basic → Advanced)
 
 A structured JavaScript guide from beginner to advanced concepts — perfect for quick reference or interview prep.
 
@@ -263,6 +263,3 @@ import { add } from './math.js';
 
 ---
 
-## 🚀 Contribute
-
-Feel free to fork this repo and add more examples, explanations, or diagrams.
